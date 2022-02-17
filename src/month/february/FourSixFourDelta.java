@@ -6,6 +6,11 @@ import java.util.Scanner;
 
 import javax.swing.JFileChooser;
 
+/* 45 -3 96 14 19 96  
+ * 67 -6 81 -7 43 81  
+ * 89 -7 -8 72 28 89  
+ * 12 -4 52 29 63 63  
+ * -3 -9 12 -1 87 87 */
 public class FourSixFourDelta {
 
 	public static void main(String[] args) throws FileNotFoundException, IllegalAccessException {

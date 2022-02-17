@@ -6,6 +6,10 @@ import java.util.Scanner;
 
 import javax.swing.JFileChooser;
 
+/* 100 195 182 225  
+ * 83 125 235 67  
+ * 129 42 100 750  
+ * Sum: 1873.0 */
 public class FourSixFiveCharlie {
 
 	public static void main(String[] args) throws FileNotFoundException, IllegalAccessException {

@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 import javax.swing.JFileChooser;
 
+/* 2 1  
+ * 2 4  
+ * 3 2 */
 public class FourSixFiveBeta {
 
 	public static void main(String[] args) throws FileNotFoundException, IllegalAccessException {
