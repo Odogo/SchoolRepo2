@@ -49,7 +49,6 @@ public class FarmClasses {
 
 		/**
 		 * Generates a new {@code List<Animal>} by combining the two Lists.
-		 * 
 		 * @return a combined list of cows and horses;
 		 */
 		public List<Animal> fetchAllAnimals() {
